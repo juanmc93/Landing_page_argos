@@ -59,7 +59,7 @@
     height:85%;
   }
   
-  .content-2 {
+   .content-2-img {
   margin-bottom: -60px;
   }
   .content-2-img img{
@@ -241,8 +241,8 @@
   }
     
   
-  @media (min-width: 400px){
-    .content-2 {
+  @media (min-width: 440px){
+     .content-2-img {
         margin-bottom: -35px;
     }
   }
