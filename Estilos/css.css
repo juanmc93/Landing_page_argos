@@ -1,5 +1,4 @@
-
- * {
+* {
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -239,7 +238,7 @@
    
   
   @media (min-width: 720px){
-  .content-2 {
+.content-2 {
   margin-bottom: -30px;
   }
   }
